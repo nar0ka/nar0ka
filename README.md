@@ -33,7 +33,5 @@ Check out my professional automation tools on Gumroad:
 
 ### 📫 Connect with me
 - **X (Twitter):** [@nar0ka](https://x.com/nar0ka)
-
 - **Store:** [naroka.gumroad.com](https://naroka.gumroad.com)
-
--**Telegram:** [t.me/nar00ka](https://t.me/nar00ka)
+- **Telegram:** [t.me/nar00ka](https://t.me/nar00ka)
