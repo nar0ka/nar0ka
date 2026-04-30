@@ -35,4 +35,4 @@ Check out my professional automation tools on Gumroad:
 - **X (Twitter):** [@nar0ka](https://x.com/nar0ka)
 - **Store:** [naroka.gumroad.com](https://naroka.gumroad.com)
 - **Telegram:** [t.me/nar00ka](https://t.me/nar00ka)
-- [**WhatsApp:** https://wa.me/380632991898](https://wa.me/380632991898)
+- <a href="https://wa.me/380632991898" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
